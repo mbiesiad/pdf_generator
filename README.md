@@ -5,4 +5,4 @@ wiki: https://github.com/mbiesiad/pdf_generator/wiki/PDF-Creator
 
 Automatical opening after saving.
 
-//old vers. for little refactor. todo protect against overwriting, not url, not connected.
+//old vers. for little refactor. todo protect against overwriting, if not url, not connected.
