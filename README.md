@@ -1,5 +1,5 @@
 # pdf_generator
-MVC, WPF, C#, .NET, IronPDF
+MVVM, WPF, C#, .NET, IronPDF
 
 wiki: https://github.com/mbiesiad/pdf_generator/wiki/PDF-Creator
 
